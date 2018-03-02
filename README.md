@@ -1,24 +1,7 @@
-# README
+Hello,
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bon j'ai eu une grosse journée hier et peu de temps pour faire le projet, je m'y suis mis tôt ce matin mais je ne pense pas pouvoir aller plus loin avec mon niveau d'énergie.
 
-Things you may want to cover:
+https://stormy-ridge-30635.herokuapp.com/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A bientôt
